@@ -4,3 +4,49 @@
   margin-right: auto;
   width: 50%;
 }
+
+.heading {
+  background-color: SteelBlue;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.caption {
+  font-family: Verdana;
+  text-align: center;
+  font-size: 12px;
+}
+
+.quote {
+  font-family: Times New Roman;
+  text-align: center;
+  font-size: 16px;
+}
+
+.category-heading {
+  font-family: Arial;
+  background-color: SteelBlue;
+  text-align: center;
+}
+
+.body-text {
+  font-family: Verdana;
+  text-align: left;
+  font-size: 14px;
+}
+
+.timeline-text {
+  font-family: Verdana;
+  text-align: center;
+  font-size: 14px;
+}
+
+.timeline-heading {
+  font-family: Arial;
+  text-align: center;
+}
+
+.bibliography-text {
+  font-family: Times New Roman;
+  font-size: 12px;
+}
